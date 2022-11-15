@@ -44,4 +44,20 @@ export default {
 img{
   border-radius: 50%;
 }
+.username{
+  font-weight: bold;
+  height:50%
+}
+.follower-count{
+  font-size: 12px;
+  height: 50%;
+}
+.card{
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+.card:hover{
+  box-shadow: 2px 2px 10px lightgrey;
+  transition:500ms;
+}
 </style> 
